@@ -96,6 +96,10 @@
 	# http://michael-kuehnel.de/git/2014/11/21/git-mac-osx-and-german-umlaute.html
 	precomposeunicode = false
 
+
+	# RHJF: from earlier .gitconfig 2015-10-19 Set default editor to Pico/Nano
+	editor = /usr/bin/pico
+
 [color]
 
 	# Use colors in Git commands that are capable of colored output when

@@ -1,5 +1,5 @@
-# Make vim the default editor.
-export EDITOR='vim';
+# Make Pico/Nano the default editor.
+export EDITOR='/usr/bin/pico';
 
 # Enable persistent REPL history for `node`.
 export NODE_REPL_HISTORY=~/.node_history;
