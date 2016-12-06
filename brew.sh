@@ -100,5 +100,9 @@ brew install tree
 brew install webkit2png
 brew install zopfli
 
+# Install RHJF utilities
+#needed for date processing (e.g. AmEx statements)
+brew install dateutils
+
 # Remove outdated versions from the cellar.
 brew cleanup
